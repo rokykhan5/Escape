@@ -1,0 +1,418 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+/*hedsection start*/
+.banner{
+	position: relative;
+	width: 100%;
+}
+.banner img{
+	width: 100%;
+}
+.logo_manu {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin-top: 42px;
+}
+.contenter{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	margin-top: 3px;
+	width: 15%;	
+}
+.logo img{
+	width: 100%;
+}
+.manu{
+	float: right;
+}
+.manu ul{
+	list-style: none;
+}
+.manu ul li {
+	float: left;
+}
+.manu ul li a {
+	text-decoration: none;
+	padding: 0 15px;
+	color: #fff;
+}
+.manu ul li:last-child a {
+	padding-right: 0;
+}
+.contenter2 {
+	width: 60%;
+	margin: 200px auto;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: -11%;
+	text-align: center;
+}
+.content_post p {
+	font-family: "BrandonGrote";
+	color: #fff;
+	font-size: 32pt;
+	margin-bottom: 0;
+}
+.content_post h1 {
+	font-size: 65pt;
+	font-weight: 900;
+	color: #fff;
+}
+.content_post button {
+	font-size: 23pt;
+	color: #fff;
+	background: transparent;
+	border: 3px solid #fff;
+	padding: 6px 38px;
+	border-radius: 3px;
+}
+.content_post button:hover {
+	background: #A46474;
+}
+/*hedsection end*/
+/*services start*/
+/*single start*/
+.post {
+	float: left;
+	width: 55%;
+}
+.post h1 {
+	font-size: 44.99pt;
+	font-weight: 300;
+	padding-bottom: 14px;
+	color: #222222;
+}
+.post span {
+	font-weight: 700;
+}
+.post_common {
+	font-size: 11pt;
+	color: #777777;
+	line-height: 1.2;
+}
+.web_images {
+	float: left;
+	width: 21%;
+	padding-left: 75px;
+	margin-top: 10%;
+}
+.web_images img {
+	width: 100%;
+}
+/*single end*/
+/*single start*/
+.Identity_Branding{}
+.post2 {
+	float: right;
+	width: 55%;
+	background-color: #fafafa;
+}
+.identiy{
+	background-color: #fafafa;
+	width: 100%;
+}
+.post2 h1 {
+	font-size: 55pt;
+	color: #222222;
+	font-weight: 300;
+}
+.post2 span {
+	font-weight: 700;
+}
+.Identity_images{
+	width: 21%;
+	float: left;
+}
+.Identity_images img{}
+/*single end*/
+/*services end*/
+ /*Skills start*/
+ .Skills{}
+ .left{
+ 	float: left;
+ 	width: 45%;
+ }
+.Branding {
+	margin-bottom: 37px;
+}
+ .Mobile{
+ 	margin-bottom: 37px;
+ }
+.skills_img {
+	float: left;
+	width: 22%;
+	margin-left: 8%;
+	margin-bottom: 9%;
+}
+ .skills_post{
+	float: right;
+	width: 70%;
+ }
+.common {
+	font-size: 19pt;
+	font-weight: 300;
+	margin-bottom: -19px;
+
+}
+.common2 {
+	 font-size: 13pt;
+	 color: #777777; 
+}
+.right{
+	float: right;
+ 	width: 45%;
+} 
+ /*Skills end*/
+ /*Our Awesome Clients start*/
+ .Clients{
+ 	background-color: #FAFAFA;
+ 	position: relative;
+ }
+ .title{
+ 	text-align: center;
+ 	overflow: hidden;
+ }
+ .title h2 {
+	font-size: 59pt;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+ .title span {
+	font-weight: 700;
+}
+.title p {
+	font-size: 22pt;
+	margin-top: 0;
+}
+ .Jamie_Richardson{
+ 	overflow: hidden;
+
+ }
+ .left-mask{
+ 	float: left;
+ }
+.left-mask img {
+	width: 220px;
+	margin-left: 9%;
+}
+ .shape1 {
+	float: left;
+	position: absolute;
+	background: #fff;
+	width: 620px;
+	height: 151px;
+	top: 8%;
+	left: 24%;
+	border-radius: 13px;
+	transform: translate(-50% -50%);
+}
+.shape1:before {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-top: 8px solid transparent;
+	border-right: 19px solid #fff;
+	border-bottom: 8px solid transparent;
+	margin: 62px 0 0 -19px;
+}
+ .shape1 p{}
+.common3 {
+	font-size: 23pt;
+	color: #777777;
+}
+.shape1 span {
+	font-size: 20pt;
+	color: #7690c5;
+}
+.Bart_Thompson{
+	overflow: hidden;
+}
+.shape2 {
+	float: left;
+	width: 643px;
+	position: absolute;
+	background: #fff;
+	left: 17%;
+	border-radius: 13px;
+	transform: translate(-50% -50%);
+	bottom: 10%;
+}
+ .shape2::before {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-top: 8px solid transparent;
+	border-left: 19px solid #fff;
+	border-bottom: 8px solid transparent;
+	margin: 62px -19px 0 1px;
+	right: 0;
+}
+ .right_mask{
+ 	float: right;
+ }
+ /*Our Awesome Clients end*/
+ /*logo_section start*/
+.logo_list ul {
+	list-style: none;
+}
+.logo_list ul li {
+	float: left;
+	padding: 0 24px;
+}
+.logo_list ul li img {
+	padding: 25px 0;
+	width: 196px;
+}
+ /*logo_section end*/
+ /*Amazing_Team start*/
+ .amazing{
+ 	background-color: #000;
+ }
+.amazing_section {
+	background: #000;
+}
+ .title h1 {
+	font-size: 59pt;
+	color: #fff;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+ .title span {
+	font-weight: 700;
+}
+.title p {
+	font-size: 22pt;
+	color: #777;
+}
+.single {
+	float: left;
+	margin-left: 8%;
+}
+.single img {
+	margin-left: 4%;
+}
+.common4 {
+	text-align: center;
+	color: #fff;
+	font-size: 18pt;
+	font-weight: 300;
+	margin-top: 0;
+}
+.common5 {
+	text-align: center;
+	font-size: 16pt;
+	color: #ebebeb;
+	margin-top: -15px;
+}
+.icon {
+	text-align: center;
+	margin-left: 11%;
+}
+.icon img {
+	margin-left: 3%;
+}
+ /*Amazing_Team end*/
+ /*Contact Us start*/
+.contact {
+	background: #7690C5;
+	color: #fff;
+	padding-top: 6%;
+}
+.contact_info {
+	width: 45%;
+	float: left;
+	color: #fff;
+}
+.contact_info h1 {
+	font-size: 59pt;
+	margin: 0;
+	
+	font-weight: 300;
+}
+.contact_info span {
+	font-weight: 700;
+}
+.contact_info p {
+	font-size: 13pt;
+}
+.form {
+	width: 45%;
+	float: right;
+}
+.Contact-Column1 {
+	float: left;
+	width: 40%;
+}
+.contact_icon1 {
+	margin-top: 24%;
+}
+.contact_icon1 a{
+	color: #fff;
+}
+.contact_icon1 a img {
+	float: left;
+	margin-right: 26px;
+}
+.contact_icon1 a img p{
+
+}
+.Contact-Column2{
+	float: left;
+	margin-top: 10%;
+}
+.contact_icon2 {
+	margin-bottom: 36%;
+}
+.contact_icon2 a {
+	color: #fff;
+}
+.contact_icon2 img {
+	float: left;
+	margin-right: 26px;
+}
+.contact_icon2 p {
+	float: left;
+	font-size: 13pt;
+	margin-top: -2px;
+}
+#first_name, #your_email {
+    width: 100%;
+    height: 50px;
+    display: block;
+    padding: 0 15px;
+   	margin-bottom: 20px;	
+    font-size: 18pt;
+   }
+#message {
+    padding: 13px 15px;
+    font-size: 18pt;
+}
+ /*Contact Us end*/
+ /*footer start*/
+footer{
+	background: #7690C5;
+	color: #fff;
+	padding-top: 7%;
+}
+.contenter5{
+	border-top: 1px solid #fff;
+}
+.contenter5{
+	text-align: center;
+	font-size: 16pt;
+	width: 80%;
+	margin:0 auto;
+}
+ /*footer end*/
